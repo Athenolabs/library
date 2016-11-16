@@ -188,7 +188,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2016-11-16 13:03:59.668660", 
+ "modified": "2016-11-16 17:01:55.248351", 
  "modified_by": "Administrator", 
  "module": "Library Management", 
  "name": "Library Transaction", 
@@ -217,7 +217,7 @@
    "write": 1
   }
  ], 
- "quick_entry": 1, 
+ "quick_entry": 0, 
  "read_only": 0, 
  "read_only_onload": 0, 
  "sort_field": "modified", 
