@@ -98,6 +98,11 @@ app_license = "GNU General Public License"
 # 		"library_management.tasks.monthly"
 # 	]
 # }
+scheduler_events = {
+    "all": [
+        "library_management.tasks.all"
+    ],
+}
 
 # Testing
 # -------
